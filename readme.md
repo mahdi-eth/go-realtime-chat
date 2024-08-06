@@ -31,6 +31,12 @@ This project is a real-time chat application built with a React frontend and a G
    - The frontend listens for messages from the backend and updates the chat history, displaying new messages as they arrive.
 
 
+## Prerequisites
+
+- [Docker](https://www.docker.com/get-started) installed on your machine.
+- [GNU Make](https://www.gnu.org/software/make/) installed on your machine.
+- [Node.js](https://nodejs.org/) and npm installed on your machine.
+
 ## Makefile Usage
 
 The `Makefile` in this project automates the process of building and running your chat application. Below are the available commands:
